@@ -1,5 +1,5 @@
 {
-  "appId": "io.ionic.starter",
+  "appId": "com.itgenius.ionicpushnotification",
   "appName": "ionic-firebase-push-notification",
   "bundledWebRuntime": false,
   "npmClient": "npm",

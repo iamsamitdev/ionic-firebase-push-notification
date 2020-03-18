@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "67293634910",
+    "firebase_url": "https://ionic-firebase-push-samit.firebaseio.com",
+    "project_id": "ionic-firebase-push-samit",
+    "storage_bucket": "ionic-firebase-push-samit.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:67293634910:android:ff2a1f68ab9868584aefcf",
+        "android_client_info": {
+          "package_name": "com.itgenius.ionicpushnotification"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "67293634910-o4m9p44fr99bj4r3vn48rf9tromndthc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBkekzXZX-ON1OIiJ0EKzB5_LF2pP95soc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "67293634910-o4m9p44fr99bj4r3vn48rf9tromndthc.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
